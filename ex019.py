@@ -1,3 +1,5 @@
+#A teacher wants to randomly select one of his four students to erase the board. Write a program that will help him by reading the students' names and writing the name of the chosen one on the screen.
+
 import random
 nom1 = str (input('Primeiro aluno: '))
 nom2 = str (input('Segundo aluno: '))
